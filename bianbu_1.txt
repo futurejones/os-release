@@ -1,0 +1,13 @@
+PRETTY_NAME="Bianbu 1"
+NAME="Bianbu"
+VERSION_ID="1"
+VERSION="1 (Mantic Minotaur)"
+VERSION_CODENAME=mantic
+ID=bianbu
+ID_LIKE=debian
+HOME_URL="https://bianbu.spacemit.com"
+SUPPORT_URL="https://bianbu.spacemit.com"
+BUG_REPORT_URL="https://ticket.spacemit.com"
+PRIVACY_POLICY_URL="https://wwww.spacemit.com/privacy-policy"
+UBUNTU_CODENAME=mantic
+LOGO=ubuntu-logo
